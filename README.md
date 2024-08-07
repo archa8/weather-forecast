@@ -3,12 +3,12 @@
 Welcome to Weather Forecast App! This provides you real-time weather updates, forecasts and insights on other important parameters.
 
 ## Table of Contents
-* Features
-* Installation
-* Usage
-* Screenshot
-* Technologies Used
-* Contributing
+* [Features](https://github.com/archa8/weather-forecast?tab=readme-ov-file#features)
+* [Installation](https://github.com/archa8/weather-forecast?tab=readme-ov-file#installation)
+* [Usage](https://github.com/archa8/weather-forecast?tab=readme-ov-file#usage)
+* [Screenshot](https://github.com/archa8/weather-forecast?tab=readme-ov-file#screenshot)
+* [Technologies Used](https://github.com/archa8/weather-forecast?tab=readme-ov-file#technologies-used)
+* [Contributing](https://github.com/archa8/weather-forecast?tab=readme-ov-file#contributing)
 
 ## Features
 * Current weather conditions
