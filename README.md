@@ -53,7 +53,7 @@ The app will be available on localhost.
 * Alternatively, you can also type the city name into the search box provided to get forecasts for that particular location.
 
 ## Screenshot:
-![Screenshot of weather app](https://imgur.com/a/1dGVd1a)
+![Screenshot of weather app](https://i.imgur.com/7S2FT7w.png)
 
 ## Technologies Used:
 * Frontend:
