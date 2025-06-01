@@ -1,3 +1,10 @@
+body {
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
 :root{
     --bg-color1: #212529;
     --bg-color2: #2a2b2d;
@@ -16,7 +23,6 @@ body{
     min-height: 100vh;
     background-color: var(--bg-color1);
     color: #fff;
-    font-family: sans-serif;
     padding: 0 15px;
 }
 hr{
